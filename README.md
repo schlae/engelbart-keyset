@@ -38,6 +38,9 @@ With these files, you can print one for yourself as well!
 | 1 | 1.5K ohm resistor, 1/4 watt | For parallel port version |
 | 1 | DB25 hood | For parallel port version |
 
+*Note: Instead of the lever-less 1SM2, consider using a switch with a lever like
+the 311SM1-T or the E-Switch MS0850503F040S1A*
+
 ## 3D Printing
 
 I used an Ender 3 with a 0.4mm nozzle and white PLA filament for the 3D-printed
@@ -102,6 +105,14 @@ All switches should be positioned so the actuator button is towards the
 rear of the keyset. The actuator button must line up with the rearmost hole
 in the top of the key. Eventually there will be an adjustment screw here
 that will push the actuator.
+
+As an alternative, you might also consider using a microswitch that has a
+built-in lever. This should be installed "backwards" from the normal switch
+that has no lever. An advantage of this switch is that it requires less
+actuation force due to the leverage and might be more comfortable for you
+to use.
+
+![Alternate lever-actuated switch](photos/alt_switch.jpg)
 
 Now use 10x 4-40 screws to mount the pillow blocks to the base plate.
 Leave them a little loose so you can insert the pivot rod in the next step.
